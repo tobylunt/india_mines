@@ -2,9 +2,11 @@
 
 This directory contains my effort to transfer learn a resnet
 originally trained to classify satellite imagery using the Planet
-Kaggle dataset. I am adapting this CNN to use an expanded training
-dataset from known mines in India, using publically available Sentinel
-imagery from the European Space Agency.
+Kaggle dataset from the challenge ["understanding the Amazon from
+space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space). I
+am adapting this CNN to use an expanded training dataset from known
+mines in India, using publicly available Sentinel imagery from the
+European Space Agency.
 
 ## Why should we care?
 
