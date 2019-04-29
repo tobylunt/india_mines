@@ -1,6 +1,6 @@
 # Mine detection from satellite imagery in India
 
-This directory contains my effort to transfer learn a resnet
+This directory contains preliminary efforts to transfer learn a resnet
 originally trained to classify satellite imagery using the Planet
 Kaggle dataset from the challenge ["understanding the Amazon from
 space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space). I
